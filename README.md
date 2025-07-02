@@ -1,1 +1,2 @@
-# internship-frontend-tests
+# Internship Project  
+Edited by Rakhman (Intern)
